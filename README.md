@@ -1,5 +1,6 @@
-Master's student at University of Helsinki studying applied mathematics (2020-present)
+**Master's student at University of Helsinki (2020-present)**
 
+- Major: Applied mathematics
 - Specialization: Probabilistic modelling
 
 Bachelor of Science in computer science (2017-2020)
