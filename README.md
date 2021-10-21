@@ -1,4 +1,8 @@
-Master's student at University of Helsinki studying applied mathematics and specializing in probabilistic modelling.
+Master's student at University of Helsinki studying applied mathematics (2020-present)
+
+- Specialization: Probabilistic modelling
+
+Bachelor of Science in computer science (2017-2020)
 
 <!---
 Jsos17/Jsos17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
