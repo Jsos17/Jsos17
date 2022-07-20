@@ -16,7 +16,10 @@ For me, the flag is a symbol of Eastern Orthodox Karelian culture formerly preva
 
 By displaying (a part of) the flag of East Karelia in my avatar, I honor my grandfather and his family and remember the cultural and socioeconomic loss that he and his family suffered after they lost their homes and farms and became refugees within Finnish borders (Finnish: Karjalan siirtoväki/evakot). Additionally and unfortunately, the Eastern Orthodox Border Karelians were not always treated very fairly by most Finns after they relocated within Finland because of their different religion and because of their distinctive Karelian culture. This is because the absolute majority of Finnish people are and were Lutherans and the Eastern Orthodox Church was considered to be a Russian phenomenon and any reminder of Russian culture was a bitter thing for Finns to swallow after the two wars against the Soviet Union had just ended.
 
-A link in Finnish for more information [Karjalainen kulttuuri, Karjalan Sivistysseura](https://www.karjalansivistysseura.fi/kulttuuri/).
+Links (first in English, the rest in Finnish) for more information:
+- [East Karelia, Flags of the World](https://www.fotw.info/flags/ru-10h2.html)
+- [Itä-Karjalan lippu, Wikipedia](https://fi.wikipedia.org/wiki/It%C3%A4-Karjalan_lippu)
+- [Karjalainen kulttuuri, Karjalan Sivistysseura](https://www.karjalansivistysseura.fi/kulttuuri/).
 
 <!---
 Jsos17/Jsos17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
