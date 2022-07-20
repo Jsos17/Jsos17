@@ -19,7 +19,7 @@ By displaying (a part of) the flag of East Karelia in my avatar, I honor my gran
 Links (first in English, the rest in Finnish) for more information:
 - [East Karelia, Flags of the World](https://www.fotw.info/flags/ru-10h2.html)
 - [Itä-Karjalan lippu, Wikipedia](https://fi.wikipedia.org/wiki/It%C3%A4-Karjalan_lippu)
-- [Karjalainen kulttuuri, Karjalan Sivistysseura](https://www.karjalansivistysseura.fi/kulttuuri/).
+- [Karjalainen kulttuuri, Karjalan Sivistysseura](https://www.karjalansivistysseura.fi/kulttuuri/)
 
 <!---
 Jsos17/Jsos17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
