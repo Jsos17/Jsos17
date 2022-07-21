@@ -18,6 +18,7 @@ By displaying (a part of) the flag of East Karelia in my avatar, I honor my gran
 
 Links and some published research on the subject for more information:
 - [East Karelia, Wikipedia (in English)](https://en.wikipedia.org/wiki/East_Karelia)
+- [Itä-Karjala, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/It%C3%A4-Karjala)
 - [The Flag of East Karelia, Flags of the World (in English)](https://www.fotw.info/flags/ru-10h2.html)
 - [Itä-Karjalan lippu, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/It%C3%A4-Karjalan_lippu)
 - [Karjalainen kulttuuri, Karjalan Sivistysseura (in Finnish)](https://www.karjalansivistysseura.fi/kulttuuri/)
