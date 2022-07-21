@@ -16,10 +16,16 @@ For me, the flag is a symbol of Eastern Orthodox Karelian culture formerly preva
 
 By displaying (a part of) the flag of East Karelia in my avatar, I honor my grandfather and his family and remember the cultural and socioeconomic loss that he and his family suffered after they lost their homes and farms and became refugees within Finnish borders (Finnish: Karjalan siirtoväki/evakot). Additionally and unfortunately, the Eastern Orthodox Border Karelians were not always treated very fairly by most Finns after they relocated within Finland because of their different religion and because of their distinctive Karelian culture. This is because the absolute majority of Finnish people are and were Lutherans and the Eastern Orthodox Church was considered to be culturally a Russian phenomenon and any reminder of Russian culture was a bitter thing for Finns to swallow after the two wars against the Soviet Union had just ended.
 
-Links (first in English, the rest in Finnish) for more information:
-- [East Karelia, Flags of the World](https://www.fotw.info/flags/ru-10h2.html)
-- [Itä-Karjalan lippu, Wikipedia](https://fi.wikipedia.org/wiki/It%C3%A4-Karjalan_lippu)
-- [Karjalainen kulttuuri, Karjalan Sivistysseura](https://www.karjalansivistysseura.fi/kulttuuri/)
+Links and some published research on the subject for more information:
+- [East Karelia, Wikipedia (in English)](https://en.wikipedia.org/wiki/East_Karelia)
+- [The Flag of East Karelia, Flags of the World (in English)](https://www.fotw.info/flags/ru-10h2.html)
+- [Itä-Karjalan lippu, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/It%C3%A4-Karjalan_lippu)
+- [Karjalainen kulttuuri, Karjalan Sivistysseura (in Finnish)](https://www.karjalansivistysseura.fi/kulttuuri/)
+- [Raja-Karjala, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Raja-Karjala)
+- [Kontrolloitu sopeutuminen : ortodoksinen siirtoväki sotien jälkeisessä Ylä-Savossa (1946-1959), Heli Kaarina Kananen, Jyväskylä University Digital Repository (in Finnish)](https://jyx.jyu.fi/handle/123456789/25623)
+- [Border Karelia through rose-coloured glasses? Gazes upon a ceded territory, Netta Böök, ResearchGate (in English)](https://www.researchgate.net/publication/267236590_Border_Karelia_through_rose-coloured_glasses_Gazes_upon_a_ceded_territory)
+
+
 
 <!---
 Jsos17/Jsos17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
