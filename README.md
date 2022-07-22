@@ -11,7 +11,7 @@
 **Bachelor of Science in computer science (University of Helsinki, 2017-2020)**
 
 
-## The Meaning of my Avatar
+## The Meaning of My Avatar
 
 In case you are wondering, my avatar partially shows the flag of East Karelia (Finnish: Itä-Karjala). The flag was designed by famous Finnish artist Akseli Gallen-Kallela and it was proposed to be used as an independentist flag in the region of East Karelia. The flag of East Karelia is also the flag of Karelians.
 
