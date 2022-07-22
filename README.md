@@ -1,4 +1,4 @@
-# :finland:
+# :finland: For Freedom, Democracy and Peace :peace_symbol:
 
 
 ## My Education
