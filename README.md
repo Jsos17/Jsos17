@@ -26,8 +26,8 @@ Published research on the subject and other links for more information:
 - [Karjalainen kulttuuri, Karjalan Sivistysseura (in Finnish)](https://www.karjalansivistysseura.fi/kulttuuri/)
 - [The Flag of East Karelia, Flags of the World (in English)](https://www.fotw.info/flags/ru-10h2.html)
 - [Itä-Karjalan lippu, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/It%C3%A4-Karjalan_lippu)
-- [East Karelia, Wikipedia (in English)](https://en.wikipedia.org/wiki/East_Karelia)
 - [Itä-Karjala, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/It%C3%A4-Karjala)
+- [East Karelia, Wikipedia (in English)](https://en.wikipedia.org/wiki/East_Karelia)
 
 
 <!---
