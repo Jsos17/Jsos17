@@ -13,7 +13,7 @@
 
 ## The Meaning of My Avatar
 
-In case you are wondering, my avatar partially shows the flag of East Karelia (Finnish: Itä-Karjala). The flag was designed by famous Finnish artist Akseli Gallen-Kallela and it was proposed to be used as an independentist flag in the region of East Karelia. The flag of East Karelia is also the flag of Karelians.
+In case you are wondering, my avatar partially shows (or at least should show if GitHub works correctly) the flag of East Karelia (Finnish: Itä-Karjala). The flag was designed by famous Finnish artist Akseli Gallen-Kallela and it was proposed to be used as an independentist flag in the region of East Karelia. The flag of East Karelia is also the flag of Karelians.
 
 The flag of East Karelia can also be considered a symbol of Eastern Orthodox Karelian culture formerly prevalent in the regions of East Karelia and also in Border Karelia (Finnish: Raja-Karjala). My maternal grandfather and his family lived in Finnish Border Karelia before the area was lost to the Soviet Union for the first time after the Winter War and for the second time after the Continuation War. My maternal grandfather took part in both wars as a Finnish soldier. In addition, my maternal grandfather's mother and her family originated from Olonets Karelia (Finnish: Aunuksen Karjala), which is a part of East Karelia.
 
