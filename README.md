@@ -1,10 +1,8 @@
 # :finland: My Education
 
-**Master's Student in Applied Mathematics at University of Helsinki (2020-present)**
+- **Master's Student in Applied Mathematics (Specialization: Probabilistic Modelling) at University of Helsinki (2020-present)**
 
-- Specialization: Probabilistic Modelling
-
-**Bachelor of Science in Computer Science (University of Helsinki, 2017-2020)**
+- **Bachelor of Science in Computer Science (University of Helsinki, 2017-2020)**
 
 
 ## The Meaning of My Avatar/Profile Picture
