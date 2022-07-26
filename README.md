@@ -1,4 +1,4 @@
-# :finland: For Freedom, Democracy and Peace :peace_symbol:
+# :finland: Freedom, Democracy and Peace :peace_symbol:
 
 
 ## My Education
@@ -11,7 +11,7 @@
 **Bachelor of Science in computer science (University of Helsinki, 2017-2020)**
 
 
-## The Meaning of My Avatar
+## The Meaning of My Avatar/Profile Picture
 
 In case you are wondering, my avatar partially shows (or at least should show if GitHub works correctly) the flag of East Karelia (Finnish: Itä-Karjala). The flag was designed by famous Finnish artist Akseli Gallen-Kallela and it was proposed to be used as an independentist flag in the region of East Karelia. The flag of East Karelia is also the flag of Karelians.
 
