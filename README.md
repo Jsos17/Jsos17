@@ -4,7 +4,7 @@
 
 - Specialization: Probabilistic Modelling
 
-**Bachelor of Science in computer science (University of Helsinki, 2017-2020)**
+**Bachelor of Science in Computer Science (University of Helsinki, 2017-2020)**
 
 
 ## The Meaning of My Avatar/Profile Picture
