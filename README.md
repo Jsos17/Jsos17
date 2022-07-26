@@ -1,7 +1,4 @@
-# :finland: Freedom, Democracy and Peace :peace_symbol:
-
-
-## My Education
+# :finland: My Education
 
 **Master's student at University of Helsinki (2020-present)**
 
