@@ -1,9 +1,8 @@
 # :finland: My Education
 
-**Master's student at University of Helsinki (2020-present)**
+**Master's Student in Applied Mathematics at University of Helsinki (2020-present)**
 
-- Major: Applied mathematics
-- Specialization: Probabilistic modelling
+- Specialization: Probabilistic Modelling
 
 **Bachelor of Science in computer science (University of Helsinki, 2017-2020)**
 
