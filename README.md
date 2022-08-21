@@ -6,7 +6,7 @@
 
 - **Bachelor of Science in Computer Science (University of Helsinki, 2017-2020)**
 
-## Some of My GitHub Projects
+# Some of My GitHub Projects
 
 - [Classical Ciphers](https://github.com/Jsos17/Classic-crypto)
 - [A Vector Autoregressive Model](https://github.com/Jsos17/A_Vector_Autoregressive_Model)
@@ -14,7 +14,7 @@
 - [A Machine Learning Term Project](https://github.com/Jsos17/Machine_Learning_Term_Project)
 - [Visualising 120 Years of Olympic History](https://github.com/Jsos17/Olympics_Evolution)
 
-## The Meaning of My Avatar/Profile Picture
+# The Meaning of My Avatar/Profile Picture
 
 In case you are wondering, my avatar partially shows (or at least should show if GitHub works correctly) the flag of East Karelia (Finnish: Itä-Karjala). The flag was designed by famous Finnish artist Akseli Gallen-Kallela and it was proposed to be used as an independentist flag in the region of East Karelia. The flag of East Karelia is also the flag of Karelians.
 
