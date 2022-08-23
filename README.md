@@ -18,7 +18,7 @@
 
 ![The Flag of East Karelia](https://github.com/Jsos17/Jsos17/blob/main/640px-Itakarjalaisten_lippu.svg.png)
 
-In case you are wondering, my avatar partially shows (or at least should show if GitHub works correctly) the flag of East Karelia (Finnish: Itä-Karjala) which should be fully displayed above. The flag was designed by famous Finnish artist Akseli Gallen-Kallela and it was proposed to be used as an independentist flag in the region of East Karelia. The flag of East Karelia is also used as the ethnic flag of Karelians.
+In case you are wondering, my avatar partially shows (or at least should show if GitHub works correctly) the flag of East Karelia which should be fully displayed above. The flag was designed by famous Finnish artist Akseli Gallen-Kallela and it was proposed to be used as an independentist flag in the region of East Karelia (Finnish: Itä-Karjala). The flag of East Karelia is also used as the ethnic flag of Karelians.
 
 The flag of East Karelia can also be considered a symbol of Eastern Orthodox (Christian) Karelian culture historically prevalent in the regions of East Karelia and Border Karelia (Finnish: Raja-Karjala). My maternal grandfather and his family were Eastern Orthodox Karelians who lived in Finnish Border Karelia before the area was lost to the Soviet Union for the first time after the Winter War and for the second time after the Continuation War. My maternal grandfather took part in both wars as a Finnish soldier. In addition, my maternal grandfather's mother and her family originated from Aunus (Olonets) Karelia (Finnish: Aunuksen Karjala), which is a part of East Karelia.
 
