@@ -1,4 +1,4 @@
-# My Education :finland:
+# My Education :dove:
 
 - **Master's Student in Applied Mathematics at University of Helsinki (2020-present)**
 
