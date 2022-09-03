@@ -1,4 +1,6 @@
-# My Education :dove:
+# Juuso Luhtala :dove:
+
+## My Education
 
 - **Master's Student in Applied Mathematics at University of Helsinki (2020-present)**
 
@@ -6,7 +8,7 @@
 
 - **Bachelor of Science in Computer Science (University of Helsinki, 2017-2020)**
 
-# Some of My GitHub Projects
+## Some of My GitHub Projects
 
 - [Classical Ciphers](https://github.com/Jsos17/Classic-crypto)
 - [A Vector Autoregressive Model](https://github.com/Jsos17/A_Vector_Autoregressive_Model)
@@ -14,7 +16,7 @@
 - [A Machine Learning Term Project](https://github.com/Jsos17/Machine_Learning_Term_Project)
 - [Visualising 120 Years of Olympic History](https://github.com/Jsos17/Olympics_Evolution)
 
-# The Meaning of My Avatar/Profile Picture
+## The Meaning of My Avatar/Profile Picture
 
 ![The Flag of East Karelia](https://github.com/Jsos17/Jsos17/blob/main/640px-Itakarjalaisten_lippu.svg.png)
 
