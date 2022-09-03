@@ -35,9 +35,9 @@ As of September 2022, I have officially changed my surname to *Luhtala*. My prev
 
 ### Additional Reading
 
-- [Salmi-säätiö: Kaunoselkä (retrieved 3.9.2022)](https://salmi-saatio.fi/salmin-pitaja/kylat/kaunoselka/)
-- Rajoil da randamil: Salmi ja salmilaiset 1617-1948. Jukka Kokkonen (toim.). Salmi-säätiö, 2015.
-- Sama mua, uvvet rannat: salmilaiset 1948-2018. Jukka Kokkonen (toim.). Salmi-säätiö, 2018.
+- [Salmi-Säätiö: Kaunoselkä (retrieved 3.9.2022)](https://salmi-saatio.fi/salmin-pitaja/kylat/kaunoselka/)
+- Rajoil da randamil: Salmi ja salmilaiset 1617-1948. Jukka Kokkonen (toim.). Salmi-Säätiö, 2015.
+- Sama mua, uvvet rannat: salmilaiset 1948-2018. Jukka Kokkonen (toim.). Salmi-Säätiö, 2018.
 
 ## The Meaning of My Avatar/Profile Picture
 
