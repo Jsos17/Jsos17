@@ -16,6 +16,29 @@
 - [A Machine Learning Term Project](https://github.com/Jsos17/Machine_Learning_Term_Project)
 - [Visualising 120 Years of Olympic History](https://github.com/Jsos17/Olympics_Evolution)
 
+## My Family Name
+
+My maternal grandfather Aleksanteri Luhtala and the extended family he belonged to lived in the village of Kaunoselkä in the former Finnish municipality of Salmi before the Second World War. Salmi was a part of Border Karelia (Finnish: Raja-Karjala). My maternal grandfather was a member of a large extended family of Eastern Orthodox Christians. According to information passed on to my mother, the family name *Luhtala* was based on the name of the house/farm (Finnish: tila) the extended family owned.
+
+Recently published research on the changes of surnames in Finnish Eastern Orthodox Karelian population between 1818 and 1925 verifies this family folklore as true (Patronen, 2017, pages 244-245). Outi Patronen writes in her doctoral dissertation: "Muualla Salmissa vuosien 1890 ja 1920 välillä tilannimeen pohjaavan tai sitä muistuttavan sukunimen sai parikymmentä ortodoksiperhettä. Näitä sukunimiä ovat esimerkiksi nimet ... Luhtala (Kaunoselkä 1920; seurakunnan asiakirjoissa v. 1898), ...". Additionally, old Karelian maps (National Land Survey of Finland, 2009) show the name *Luhtanen* clearly in the village of Kaunoselkä (screenshot from https://www.karjalankartat.fi/):
+
+![Kaunoselkä, Luhtanen](https://github.com/Jsos17/Jsos17/blob/main/Kaunoselka_Luhtanen.png)
+
+*Luhtala* and *Luhtanen* are some forms of my family name that can be found in old Finnish Orthodox Church records. The family name of *Luhtala* has then eventually become established as the official family name. Before the surname *Luhtala* was adopted, my Orthodox Karelian ancestors did not have a surname, but they used patronyms (i.e. a part of a person's name is based on their father's first name) instead.
+
+As of September 2022, I have officially changed my surname to *Luhtala*. My previous surname was *Silvennoinen*. I have adopted the surname *Luhtala* in order to be closer to my Eastern Orthodox (Christian) Karelian cultural heritage and because I feel a strong connection to my maternal grandfather.
+
+### References
+
+- [Patronen, Outi 2017: Rajakarjalaisen sukunimistön kehittyminen osana Suomen karjalankielisen ortodoksivähemmistön suomalaistumista 1818-1925. University of Helsinki.](https://helda.helsinki.fi/handle/10138/224298)
+- [National Land Survey of Finland (Maanmittauslaitos) 2009: Karjalan kartat.](https://www.karjalankartat.fi/)
+
+### Additional Reading
+
+- [Salmi-säätiö: Kaunoselkä (retrieved 3.9.2022)](https://salmi-saatio.fi/salmin-pitaja/kylat/kaunoselka/)
+- Rajoil da randamil: Salmi ja salmilaiset 1617-1948. Jukka Kokkonen (toim.). Salmi-säätiö, 2015.
+- Sama mua, uvvet rannat: salmilaiset 1948-2018. Jukka Kokkonen (toim.). Salmi-säätiö, 2018.
+
 ## The Meaning of My Avatar/Profile Picture
 
 ![The Flag of East Karelia](https://github.com/Jsos17/Jsos17/blob/main/640px-Itakarjalaisten_lippu.svg.png)
@@ -29,6 +52,7 @@ By displaying the flag of East Karelia, I honor my grandfather, his family and o
 Published research on the subject and other links for more information:
 - [Border Karelia through rose-coloured glasses? Gazes upon a ceded territory, Netta Böök, ResearchGate (in English)](https://www.researchgate.net/publication/267236590_Border_Karelia_through_rose-coloured_glasses_Gazes_upon_a_ceded_territory)
 - [Kontrolloitu sopeutuminen : ortodoksinen siirtoväki sotien jälkeisessä Ylä-Savossa (1946-1959), Heli Kaarina Kananen, Jyväskylä University Digital Repository (in Finnish)](https://jyx.jyu.fi/handle/123456789/25623)
+- [Kirja-arvio *Sama mua, uvvet rannat - salmilaiset 1948 - 2018* (Jukka Kokkonen (toim.), Salmi-säätiö 2018): Uusi kirja kertoo Suomessa melkein unohdetun kansansirpaleen kokemasta rasismista sodan jälkeen - salmilaisten uskonto ja kieli poikkesivat valtaväestöstä ja syrjintä oli yleistä, MTV uutiset (in Finnish)](https://www.mtvuutiset.fi/artikkeli/kirja-arvio-uusi-kirja-kertoo-suomessa-melkein-unohdetun-kansansirpaleen-kokemasta-rasismista-sodan-jalkeen-salmilaisten-uskonto-ja-kieli-poikkesivat-valtavaestosta-ja-syrjinta-oli-yleista/7224782)
 - [Karjalainen kulttuuri, Karjalan Sivistysseura (in Finnish)](https://www.karjalansivistysseura.fi/kulttuuri/)
 - [Karelians, Wikipedia (in English)](https://en.wikipedia.org/wiki/Karelians)
 - [Karjalaiset (kansa), Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Karjalaiset_(kansa))
