@@ -18,7 +18,7 @@
 
 ## My Family Name
 
-My maternal grandfather Aleksanteri Luhtala and the extended family he belonged to lived in the village of Kaunoselkä in the former Finnish municipality of Salmi before the Second World War. Salmi was a part of Border Karelia (Finnish: Raja-Karjala). My maternal grandfather was a member of a large extended family of Eastern Orthodox Christians. According to information passed on to my mother, the family name *Luhtala* was based on the name of the estate (or house/farm) (Finnish: tila) the extended family owned.
+My maternal grandfather Aleksanteri Luhtala and his extended family lived in the village of Kaunoselkä in the former Finnish municipality of Salmi before the Second World War. Salmi was a part of Border Karelia (Finnish: Raja-Karjala). My maternal grandfather and his extended family were Eastern Orthodox Christians. According to information passed on to my mother, the family name *Luhtala* was based on the name of the estate (farm) (Finnish: tila) the extended family owned.
 
 Research published in 2017 by Outi Patronen on the changes of surnames in Finnish Eastern Orthodox Karelian population between 1818 and 1925 verifies this family folklore as true (Patronen, 2017, pages 244-245). Patronen writes in her doctoral dissertation: "Muualla Salmissa vuosien 1890 ja 1920 välillä tilannimeen pohjaavan tai sitä muistuttavan sukunimen sai parikymmentä ortodoksiperhettä. Näitä sukunimiä ovat esimerkiksi nimet ... Luhtala (Kaunoselkä 1920; seurakunnan asiakirjoissa v. 1898), ...". The previous quote can be translated as follows: "Elsewhere in Salmi between 1890 and 1920 about twenty Orthodox families received a surname which was based on estate name or it was reminiscent of the estate name. These kind of surnames are for example surnames ... Luhtala (Kaunoselkä 1920; in Orthodox Church records in the year 1898), ...").
 
@@ -26,7 +26,7 @@ Old Karelian maps (National Land Survey of Finland, 2009) [show the name *Luhtan
 
 ![Kaunoselkä, Luhtanen](https://github.com/Jsos17/Jsos17/blob/main/Kaunoselka_Luhtanen.png)
 
-*Luhtala* and *Luhtanen* are some forms of my family name that can be found in old Finnish Orthodox Church records. The form *Luhtala* has then eventually become established as the official family name. Before the surname *Luhtala* was adopted, my Orthodox Karelian ancestors did not have a surname, but they used patronyms (i.e. a part of a person's name is based on their father's first name) instead.
+*Luhtala* and *Luhtanen* are some forms of my family name that can be found in old Finnish Orthodox Church records. The form *Luhtala* has then eventually become established as the official family name. Before the surname *Luhtala* was adopted, my Orthodox Karelian ancestors did not have a surname, but they used patronyms instead (patronym: a part of a person's name is based on their father's first name).
 
 As of September 2022, I have officially changed my surname to *Luhtala*. My previous surname was *Silvennoinen*. I have adopted the surname *Luhtala* because I feel a strong connection to my maternal grandfather Aleksanteri Luhtala. Additionally, I feel that having *Luhtala* as my family name brings me closer to my Eastern Orthodox (Christian) Karelian cultural heritage.
 
