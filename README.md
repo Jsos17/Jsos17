@@ -49,23 +49,41 @@ In case you are wondering, my avatar partially shows (or at least should show if
 
 The flag of East Karelia can also be considered a symbol of Eastern Orthodox (Christian) Karelian culture historically prevalent in the regions of East Karelia and Border Karelia (Finnish: Raja-Karjala). My maternal grandfather and his family were Eastern Orthodox Karelians who lived in Finnish Border Karelia before the area was lost to the Soviet Union for the first time after the Winter War and for the second time after the Continuation War. My maternal grandfather took part in both wars as a Finnish soldier. In addition, my maternal grandfather's mother and her family originated from Aunus (Olonets) Karelia (Finnish: Aunuksen Karjala), which is a part of East Karelia.
 
-By displaying the flag of East Karelia, I honor my grandfather, his family and our shared cultural heritage. Additionally, I remember the cultural and socioeconomic loss that my maternal grandfather and his family suffered after they lost their homes and farms and became refugees within Finnish borders (Finnish: Karjalan siirtoväki/evakot). Unfortunately, the Eastern Orthodox Border Karelians were not always treated very fairly by most Finns after they relocated within Finland because of their different religion and because of their distinctive (Orthodox) Karelian culture. This is because the absolute majority of Finnish people are and were Lutherans and the Eastern Orthodox Church was considered to be culturally a Russian phenomenon and any reminder of Russian culture was a bitter thing for Finns to swallow after the two wars against the Soviet Union had just ended.
+By displaying the flag of East Karelia, I honor my grandfather, his family and our shared cultural heritage. Additionally, I remember the cultural and socioeconomic loss that my maternal grandfather and his family suffered after they lost their homes and farms and became refugees within Finnish borders (Finnish: Karjalan siirtoväki/evakot). Unfortunately, the Eastern Orthodox Border Karelians were often discriminated within Finland based on their traditional Karelian culture, their Eastern Orthodox Christian religion and their use of the Karelian language. The Orthodox Christian faith was viewed as too reminiscent of Russia, and thus somehow an "Un-Finnish" phenomenon since the absolute majority of Finnish people were (and are) Lutherans. Likewise the Karelian language was belittled both by the Finnish speaking people and the official government stance. People speaking Karelian language learned to hide their use of the Karelian language and used Finnish instead. Eventually future generations, like me, never learned the language.
 
-Published research on the subject and other links for more information:
-- [Border Karelia through rose-coloured glasses? Gazes upon a ceded territory, Netta Böök, ResearchGate](https://www.researchgate.net/publication/267236590_Border_Karelia_through_rose-coloured_glasses_Gazes_upon_a_ceded_territory)
+### Published research on the subject and other links for more information
+
+#### The Discriminative Treatment of (Finnish) Orthodox Karelian Evacuees in Finland after the Second World War
+
 - [Kontrolloitu sopeutuminen : ortodoksinen siirtoväki sotien jälkeisessä Ylä-Savossa (1946-1959), Heli Kaarina Kananen, Jyväskylä University Digital Repository (in Finnish)](https://jyx.jyu.fi/handle/123456789/25623)
-- [Kirja-arvio: Uusi kirja kertoo Suomessa melkein unohdetun kansansirpaleen kokemasta rasismista sodan jälkeen - salmilaisten uskonto ja kieli poikkesivat valtaväestöstä ja syrjintä oli yleistä, MTV uutiset (in Finnish)](https://www.mtvuutiset.fi/artikkeli/kirja-arvio-uusi-kirja-kertoo-suomessa-melkein-unohdetun-kansansirpaleen-kokemasta-rasismista-sodan-jalkeen-salmilaisten-uskonto-ja-kieli-poikkesivat-valtavaestosta-ja-syrjinta-oli-yleista/7224782)
-- [Karjalainen kulttuuri, Karjalan Sivistysseura (in Finnish)](https://www.karjalansivistysseura.fi/kulttuuri/)
+- [Kirja-arvio: Uusi kirja kertoo Suomessa melkein unohdetun kansansirpaleen kokemasta rasismista sodan jälkeen - salmilaisten uskonto ja kieli poikkesivat valtaväestöstä ja syrjintä oli yleistä, MTV Uutiset (in Finnish)](https://www.mtvuutiset.fi/artikkeli/kirja-arvio-uusi-kirja-kertoo-suomessa-melkein-unohdetun-kansansirpaleen-kokemasta-rasismista-sodan-jalkeen-salmilaisten-uskonto-ja-kieli-poikkesivat-valtavaestosta-ja-syrjinta-oli-yleista/7224782)
+
+#### Ethnic Karelian People, Their Culture and Language
+
 - [Karelians, Wikipedia](https://en.wikipedia.org/wiki/Karelians)
+- [Karelian language (Karjalan kieli), Kotimaisten kielten keskus (in Finnish)](https://www.kotus.fi/kielitieto/kielet/karjala)
+- [Map of Karelian Language Dialects, Kotimaisten kielten keskus (in Finnish)](https://www.kotus.fi/files/6912/karjalat_kartta_2019.png)
+- [Karjalan kielen asema on Suomessa heikko – professori: "Perustuslaki antaisi kielelle olemassaolon oikeutuksen", YLE Uutiset (in Finnish)](https://yle.fi/uutiset/3-12501465)
+- [Karjalainen kulttuuri, Karjalan Sivistysseura (in Finnish)](https://www.karjalansivistysseura.fi/kulttuuri/)
 - [Karjalaiset (kansa), Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Karjalaiset_(kansa))
-- [Ethnic Nordic Cross Flags, Wikipedia](https://en.wikipedia.org/wiki/Nordic_cross_flag#Ethnic_flags)
+
+#### Border and East Karelia
+
+- [Border Karelia through rose-coloured glasses? Gazes upon a ceded territory, Netta Böök, ResearchGate](https://www.researchgate.net/publication/267236590_Border_Karelia_through_rose-coloured_glasses_Gazes_upon_a_ceded_territory)
 - [Raja-Karjala, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Raja-Karjala)
 - [Laatokan Karjala, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Laatokan_Karjala)
-- [The Flag of East Karelia, Flags of the World](https://www.fotw.info/flags/ru-10h2.html)
-- [Itä-Karjalan lippu, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/It%C3%A4-Karjalan_lippu)
 - [Itä-Karjala, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/It%C3%A4-Karjala)
 - [East Karelia, Wikipedia](https://en.wikipedia.org/wiki/East_Karelia)
 
+#### The Flag of East Karelia
+
+- [The Flag of East Karelia, Flags of the World](https://www.fotw.info/flags/ru-10h2.html)
+- [Ethnic Nordic Cross Flags, Wikipedia](https://en.wikipedia.org/wiki/Nordic_cross_flag#Ethnic_flags)
+- [Itä-Karjalan lippu, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/It%C3%A4-Karjalan_lippu)
+
+## The Flag of East Karelia Image Information
+
+The image displaying the flag of East Karelia is from the Wikimedia Commons page of the East Karelia flag. Image author information can be found on [Wikimedia Commons page of the East Karelia flag](https://commons.wikimedia.org/wiki/File:It%C3%A4karjalaisten_lippu.svg#Licensing).
 
 <!---
 Jsos17/Jsos17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
