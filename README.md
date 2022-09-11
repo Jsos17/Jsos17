@@ -51,7 +51,7 @@ The flag of East Karelia can also be considered a symbol of Eastern Orthodox (Ch
 
 By displaying the flag of East Karelia, I honor my grandfather, his family and our shared cultural heritage. Additionally, I remember the cultural and socioeconomic loss that my maternal grandfather and his family suffered after they lost their homes and farms and became refugees within Finnish borders (Finnish: Karjalan siirtoväki/evakot). Unfortunately, the Eastern Orthodox Border Karelians were often discriminated within Finland based on their traditional Karelian culture, their Eastern Orthodox Christian religion and their use of the Karelian language. The Orthodox Christian faith was viewed as too reminiscent of Russia, and thus somehow an "Un-Finnish" phenomenon since the absolute majority of Finnish people were (and are) Lutherans. Likewise the Karelian language was belittled both by the Finnish speaking people and the official government stance. People speaking Karelian language learned to hide their use of the Karelian language and used Finnish instead. Eventually future generations, like me, never learned the language.
 
-### Published research on the subject and other links for more information
+### Published Research on the Subject and Other Links for More Information
 
 #### The Discriminative Treatment of (Finnish) Orthodox Karelian Evacuees in Finland after the Second World War
 
