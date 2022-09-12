@@ -53,7 +53,7 @@ By displaying the flag of East Karelia, I honor my grandfather, his family and o
 
 ### Published Research on the Subject and Other Links for More Information
 
-#### The Discriminative Treatment of (Finnish) Orthodox Karelian Evacuees in Finland after the Second World War
+#### The Discrimination of Finnish Orthodox Karelian Evacuees in Finland after the Second World War
 
 - [Kontrolloitu sopeutuminen : ortodoksinen siirtoväki sotien jälkeisessä Ylä-Savossa (1946-1959), Heli Kaarina Kananen, Jyväskylä University Digital Repository (in Finnish)](https://jyx.jyu.fi/handle/123456789/25623)
 - [Kirja-arvio: Uusi kirja kertoo Suomessa melkein unohdetun kansansirpaleen kokemasta rasismista sodan jälkeen - salmilaisten uskonto ja kieli poikkesivat valtaväestöstä ja syrjintä oli yleistä, MTV Uutiset (in Finnish)](https://www.mtvuutiset.fi/artikkeli/kirja-arvio-uusi-kirja-kertoo-suomessa-melkein-unohdetun-kansansirpaleen-kokemasta-rasismista-sodan-jalkeen-salmilaisten-uskonto-ja-kieli-poikkesivat-valtavaestosta-ja-syrjinta-oli-yleista/7224782)
