@@ -4,7 +4,7 @@
 
 - **Master's Student in Applied Mathematics at University of Helsinki (2020-present)**
 
-- **Bachelor of Science in Computer Science (University of Helsinki, 2017-2020)**
+- **Bachelor of Science in Computer Science, University of Helsinki (2017-2020)**
 
 ## Some of My GitHub Projects
 
