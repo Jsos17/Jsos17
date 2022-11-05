@@ -1,4 +1,4 @@
-# Juuso Luhtala :dove:
+# Juuso Luhtala :four_leaf_clover: :evergreen_tree: :orthodox_cross: :dove:
 
 ## My Education
 
