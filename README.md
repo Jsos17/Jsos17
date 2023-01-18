@@ -1,8 +1,8 @@
-# Juuso Luhtala :four_leaf_clover: :evergreen_tree: :orthodox_cross: :dove:
+# Juuso Luhtala :four_leaf_clover: :evergreen_tree: :orthodox_cross: :latin_cross: :dove:
 
 ## My Education
 
-- **Master's Student in Applied Mathematics at University of Helsinki (2020-present)**
+- **Master's Student in Applied Mathematics, University of Helsinki (2020-present)**
 
 - **Bachelor of Science in Computer Science, University of Helsinki (2017-2020)**
 
