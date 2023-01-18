@@ -69,8 +69,11 @@ By displaying the flag of East Karelia, I honor my grandfather, his family and o
 - [Karjalainen kulttuuri, Karjalan Sivistysseura (in Finnish)](https://www.karjalansivistysseura.fi/kulttuuri/)
 - [Karjalaiset (kansa), Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Karjalaiset_(kansa))
 
-#### Border and East Karelia
+#### Many Karelias: Karelia, Border Karelia, East Karelia, Aunus Karelia, Viena Karelia, West Karelia, Finnish Karelia, Ladoga Karelia, Karelian Isthmus, South Karelia, North Karelia, Swedish Karelia, Russian Karelia
 
+- [Map of Many Karelias, Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/b/b4/Many_Karelias.png)
+- [Map of Many Karelias (in Finnish), Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/1/12/Karjalan_alueet.png)
+- [Karelia, Wikipedia](https://en.wikipedia.org/wiki/Karelia)
 - [Border Karelia through rose-coloured glasses? Gazes upon a ceded territory, Netta Böök, ResearchGate](https://www.researchgate.net/publication/267236590_Border_Karelia_through_rose-coloured_glasses_Gazes_upon_a_ceded_territory)
 - [Raja-Karjala, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Raja-Karjala)
 - [Laatokan Karjala, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Laatokan_Karjala)
