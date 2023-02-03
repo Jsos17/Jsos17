@@ -1,4 +1,4 @@
-# Juuso Luhtala :four_leaf_clover: :evergreen_tree: :orthodox_cross: :latin_cross: :dove:
+# Juuso Luhtala :four_leaf_clover: :evergreen_tree: :orthodox_cross: :latin_cross: :shield: :dove: :fire:
 
 ## My Education
 
