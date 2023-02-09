@@ -6,7 +6,7 @@
 
 - **Bachelor of Science in Computer Science, University of Helsinki (2017-2020)**
 
-## Some of My GitHub Projects
+## Some of My Programming Projects
 
 - [Classical Ciphers](https://github.com/Jsos17/Classic-crypto)
 - [A Vector Autoregressive Model](https://github.com/Jsos17/A_Vector_Autoregressive_Model)
@@ -43,13 +43,11 @@ As of September 2022, I have officially changed my surname to *Luhtala*. My form
 
 ![The Flag of East Karelia](https://github.com/Jsos17/Jsos17/blob/main/640px-Itakarjalaisten_lippu.svg.png)
 
-My avatar partially shows (or at least should show if everything works correctly) the flag of East Karelia which should be fully displayed above. The flag was designed by famous Finnish artist Akseli Gallen-Kallela and it was proposed to be used as an independentist flag in the region of East Karelia (Finnish: Itä-Karjala). The flag of East Karelia is also used as the ethnic flag of Karelians.
+My avatar partially shows (or at least should show if everything works correctly) the flag of East Karelia which should be fully displayed above. The flag of East Karelia is used as the ethnic flag of Karelians. The flag was designed by famous Finnish artist Akseli Gallen-Kallela and it was proposed to be used as an independentist flag in the region of East Karelia (Finnish: Itä-Karjala). 
 
-The flag of East Karelia can also be considered a symbol of Eastern Orthodox (Christian) Karelian culture historically prevalent in the regions of East Karelia and Border Karelia (Finnish: Raja-Karjala). My maternal grandfather and his family were Eastern Orthodox Karelians who lived in Finnish Border Karelia before the area was lost to the Soviet Union for the first time after the Winter War and for the second time after the Continuation War. My maternal grandfather took part in both wars as a Finnish soldier. In addition, my maternal grandfather's mother and her family originated from Aunus (Olonets) Karelia (Finnish: Aunuksen Karjala), which is a part of East Karelia.
+The flag of East Karelia can also be considered a symbol of Eastern Orthodox (Christian) Karelian culture historically prevalent in the regions of East Karelia and Border Karelia. My maternal grandfather and his family were Eastern Orthodox Karelians who lived in Finnish Border Karelia before the area was lost to the Soviet Union for the first time after the Winter War and for the second time after the Continuation War. My maternal grandfather took part in both wars as a Finnish soldier. In addition, my maternal grandfather's mother and her family originated from Aunus (Olonets) Karelia (Finnish: Aunuksen Karjala), which is a part of East Karelia.
 
-By displaying the flag of East Karelia, I honor my grandfather, his family and our shared cultural heritage. Additionally, I remember the cultural and socioeconomic loss that my maternal grandfather and his family suffered after they lost their homes and farms and became refugees within Finnish borders (Finnish: Karjalan siirtoväki/evakot). Unfortunately, the Orthodox Border Karelians were often discriminated within Finland based on their traditional Karelian culture, their Eastern Orthodox Christian religion and their use of the Karelian language. The Orthodox Christian faith was viewed as too reminiscent of Russia, and thus somehow an "Un-Finnish" phenomenon since the absolute majority of Finnish people were (and are) Lutherans. Likewise, Karelian language was incorrectly recognized only as a dialect of Finnish. Therefore, the use of Karelian language was discouraged both by the Finnish speaking people and the official government stance. People speaking Karelian language learned to hide its use and used Finnish instead, at least in public. Eventually, members of the future generations, like me, never learned the language.
-
-**"Ortodoksisuus oli sitä, että olet ryssä ja epäluotettava. Näin voitiin ajatella, vaikka rajakarjalaiset olivat yhtä lailla taistelleet sodassa ja vielä menettäneet omaisuutensa rauhanteossa."** -Heli Kananen
+For me the flag of East Karelia symbolizes my Orthodox Karelian cultural heritage. Additionally, it also symbolizes the intergenerational consequences of the cultural and socioeconomic loss that my maternal grandfather and his extended family suffered after they lost their homes and farms and became refugees within Finnish borders (Finnish: Karjalan siirtoväki/evakot). Unfortunately, the Orthodox Border Karelians were often discriminated within Finland based on their traditional Karelian culture, their Eastern Orthodox Christian religion and their use of the Karelian language. The Orthodox Christian faith was viewed as too reminiscent of Russia, and thus somehow an "Un-Finnish" phenomenon since the absolute majority of Finnish people were Lutherans. Likewise, Karelian language was incorrectly recognized only as a dialect of Finnish. Therefore, the use of Karelian language was discouraged. People speaking Karelian language learned to hide its use and used Finnish instead, at least in public. Eventually, members of the future generations, like me, never learned the language.
 
 ### Published Research on the Subject and Other Links for More Information
 
@@ -69,11 +67,21 @@ By displaying the flag of East Karelia, I honor my grandfather, his family and o
 - [Karjalainen kulttuuri, Karjalan Sivistysseura (in Finnish)](https://www.karjalansivistysseura.fi/kulttuuri/)
 - [Karjalaiset (kansa), Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Karjalaiset_(kansa))
 
-#### Many Karelias: Karelia, Border Karelia, East Karelia, Aunus Karelia, Viena Karelia, West Karelia, Finnish Karelia, Ladoga Karelia, Karelian Isthmus, South Karelia, North Karelia, Swedish Karelia, Tver Karelia, Russian Karelia
+#### Many Karelias and Old Finland
+
+#####  East Karelia, Aunus Karelia, Viena Karelia, West Karelia, Finnish Karelia, Ladoga Karelia, Border Karelia, Karelian Isthmus, South Karelia, North Karelia, Swedish Karelia, Russian Karelia, Tver Karelia
 
 - [Map of Many Karelias, Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/b/b4/Many_Karelias.png)
 - [Map of Many Karelias (in Finnish), Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/1/12/Karjalan_alueet.png)
+- [Ceded Karelian Regions of Finland after the Winter War (and Continuation War), Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/5/59/Luovutetun_Karjalan_kunnat_1940.svg)
 - [Karelia, Wikipedia](https://en.wikipedia.org/wiki/Karelia)
+
+##### Old Finland
+
+- [Old Finland (Vanha Suomi), Wikipedia](https://en.wikipedia.org/wiki/Old_Finland)
+
+##### Border Karelia, Ladoga Karelia and East Karelia
+
 - [Border Karelia through rose-coloured glasses? Gazes upon a ceded territory, Netta Böök, ResearchGate](https://www.researchgate.net/publication/267236590_Border_Karelia_through_rose-coloured_glasses_Gazes_upon_a_ceded_territory)
 - [Raja-Karjala, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Raja-Karjala)
 - [Laatokan Karjala, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Laatokan_Karjala)
