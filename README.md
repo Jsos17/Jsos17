@@ -60,9 +60,9 @@ For me the flag of East Karelia symbolizes my Orthodox Karelian cultural heritag
 
 #### Ethnic Karelian People, Their Culture and Language
 
-- [Karelians, Wikipedia](https://en.wikipedia.org/wiki/Karelians)
 - [Karelian language (Karjalan kieli), Institute for the Languages of Finland (Kotimaisten kielten keskus) (in Finnish)](https://www.kotus.fi/kielitieto/kielet/karjala)
 - [Map of Karelian Language Dialects, Institute for the Languages of Finland (map legend in Finnish)](https://www.kotus.fi/files/6912/karjalat_kartta_2019.png)
+- [Karelians, Wikipedia](https://en.wikipedia.org/wiki/Karelians)
 - [Karjalan kielen asema on Suomessa heikko – professori: "Perustuslaki antaisi kielelle olemassaolon oikeutuksen", YLE Uutiset (in Finnish)](https://yle.fi/uutiset/3-12501465)
 - [Karjalainen kulttuuri, Karjalan Sivistysseura (in Finnish)](https://www.karjalansivistysseura.fi/kulttuuri/)
 - [Karjalaiset (kansa), Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Karjalaiset_(kansa))
