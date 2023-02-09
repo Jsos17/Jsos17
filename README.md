@@ -67,14 +67,19 @@ For me the flag of East Karelia symbolizes my Orthodox Karelian cultural heritag
 - [Karjalainen kulttuuri, Karjalan Sivistysseura (in Finnish)](https://www.karjalansivistysseura.fi/kulttuuri/)
 - [Karjalaiset (kansa), Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Karjalaiset_(kansa))
 
-#### Many Karelias and Old Finland
+#### Many Karelias, Finnish Karelia and Old Finland
 
 #####  East Karelia, Aunus Karelia, Viena Karelia, West Karelia, Finnish Karelia, Ladoga Karelia, Border Karelia, Karelian Isthmus, South Karelia, North Karelia, Swedish Karelia, Russian Karelia, Tver Karelia
 
 - [Map of Many Karelias, Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/b/b4/Many_Karelias.png)
 - [Map of Many Karelias (in Finnish), Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/1/12/Karjalan_alueet.png)
-- [Ceded Karelian Regions of Finland after the Winter War (and Continuation War), Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/5/59/Luovutetun_Karjalan_kunnat_1940.svg)
 - [Karelia, Wikipedia](https://en.wikipedia.org/wiki/Karelia)
+
+##### Finnish Karelia (Historical Province of Finland)
+
+- [Finnish Karelia (historical province of Finland), Wikipedia](https://en.wikipedia.org/wiki/Karelia_(historical_province_of_Finland))
+- [Coat of Arms of the Province of Karelia, Wikipedia](https://en.wikipedia.org/wiki/Coat_of_arms_of_the_Province_of_Karelia)
+- [Ceded Karelian Regions of Finland after the Winter War (and Continuation War), Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/5/59/Luovutetun_Karjalan_kunnat_1940.svg)
 
 ##### Old Finland
 
