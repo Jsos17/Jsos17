@@ -26,7 +26,7 @@ Old Karelian maps (National Land Survey of Finland, 2009) [show the name *Luhtan
 
 *Luhtala* and *Luhtanen* are some forms of my family name that can be found in old Finnish Orthodox Church records. The form *Luhtala* has then eventually become established as the official family name. It is possible that before the surname *Luhtala* was adopted, my Orthodox Karelian ancestors did not have a surname but they used patronyms instead (patronym: a part of a person's name is based on their father's first name).
 
-As of September 2022, I have officially changed my surname to *Luhtala*. My former surname is *Silvennoinen*. I have officially adopted the surname *Luhtala* because I feel a strong connection to my maternal grandfather Aleksanteri Luhtala. According to Finnish Orthodox Church records, my maternal grandfather was baptized as *Aleksandr* Luhtala and his first name was then changed into the more Finnish form of *Aleksanteri*. I feel that having *Luhtala* as my family name brings me closer to my Eastern Orthodox (Christian) Karelian cultural heritage.
+As of September 2022, I have officially changed my surname to *Luhtala*. My birth surname is *Silvennoinen*. I have officially adopted the surname *Luhtala* because I feel a strong connection to my maternal grandfather Aleksanteri Luhtala. According to Finnish Orthodox Church records, my maternal grandfather was baptized as *Aleksandr* Luhtala and his first name was then changed into the more Finnish form of *Aleksanteri*. I feel that having *Luhtala* as my family name brings me closer to my Eastern Orthodox (Christian) Karelian cultural heritage.
 
 ### References
 
