@@ -9,10 +9,10 @@
 ## Some of My Programming Projects
 
 - [Classical Ciphers](https://github.com/Jsos17/Classic-crypto)
-- [A Vector Autoregressive Model](https://github.com/Jsos17/A_Vector_Autoregressive_Model)
-- [Some Monte Carlo Experiments](https://github.com/Jsos17/Monte_Carlo)
-- [A Machine Learning Term Project](https://github.com/Jsos17/Machine_Learning_Term_Project)
 - [Visualising 120 Years of Olympic History](https://github.com/Jsos17/Olympics_Evolution)
+- [A Machine Learning Term Project](https://github.com/Jsos17/Machine_Learning_Term_Project)
+- [Some Monte Carlo Experiments](https://github.com/Jsos17/Monte_Carlo)
+- [A Vector Autoregressive Model](https://github.com/Jsos17/A_Vector_Autoregressive_Model)
 - [Bet1X2 database application](https://github.com/Jsos17/Bet1X2)
 
 ## The Meaning of My Avatar/Profile Picture
