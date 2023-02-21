@@ -15,6 +15,7 @@
 - [A Vector Autoregressive Model (R)](https://github.com/Jsos17/A_Vector_Autoregressive_Model)
 - [A Calculator Application (Java)](https://github.com/Jsos17/CalculatorApp)
 - [Bet1X2 Database Application (Python)](https://github.com/Jsos17/Bet1X2)
+- [Todo Application (Python)](https://github.com/Jsos17/Python_Todo_App)
 
 ## The Meaning of My Avatar/Profile Picture
 
