@@ -63,6 +63,7 @@ The image displaying the flag of East Karelia is from the Wikimedia Commons page
 #### Finnish Karelia (Historical Province of Finland)
 
 - [Finnish Karelia (historical province of Finland), Wikipedia](https://en.wikipedia.org/wiki/Karelia_(historical_province_of_Finland))
+- [Finnish Karelians, Wikipedia](https://en.wikipedia.org/wiki/Karelians_(Finns))
 - [Coat of Arms of the Province of Karelia, Wikipedia](https://en.wikipedia.org/wiki/Coat_of_arms_of_the_Province_of_Karelia)
 - [Ceded Karelian Regions of Finland after the Winter War (and Continuation War), Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/5/59/Luovutetun_Karjalan_kunnat_1940.svg)
 
@@ -70,9 +71,18 @@ The image displaying the flag of East Karelia is from the Wikimedia Commons page
 
 - [Old Finland (Vanha Suomi), Wikipedia](https://en.wikipedia.org/wiki/Old_Finland)
 
+#### South Karelia
+
+- [Lappeenranta, Wikipedia](https://en.wikipedia.org/wiki/Lappeenranta)
+- [Imatra, Wikipedia](https://en.wikipedia.org/wiki/Imatra) (my place of birth)
+- [Jääski, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/J%C3%A4%C3%A4ski) (my maternal grandmother's childhood home municipality)
+- [Jääski (Lesogorsky), Wikipedia](https://en.wikipedia.org/wiki/Lesogorsky)
+- [Vuoksi (river), Wikipedia](https://en.wikipedia.org/wiki/Vuoksi)
+
 #### Border Karelia, Ladoga Karelia and East Karelia
 
 - [Border Karelia through rose-coloured glasses? Gazes upon a ceded territory, Netta Böök, ResearchGate](https://www.researchgate.net/publication/267236590_Border_Karelia_through_rose-coloured_glasses_Gazes_upon_a_ceded_territory)
+- [Lake Ladoga, Wikipedia](https://en.wikipedia.org/wiki/Lake_Ladoga)
 - [Raja-Karjala, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Raja-Karjala)
 - [Laatokan Karjala, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Laatokan_Karjala)
 - [Itä-Karjala, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/It%C3%A4-Karjala)
