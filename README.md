@@ -84,6 +84,7 @@ The image displaying the flag of East Karelia is from the Wikimedia Commons page
 - [Border Karelia through rose-coloured glasses? Gazes upon a ceded territory, Netta Böök, ResearchGate](https://www.researchgate.net/publication/267236590_Border_Karelia_through_rose-coloured_glasses_Gazes_upon_a_ceded_territory)
 - [Lake Ladoga, Wikipedia](https://en.wikipedia.org/wiki/Lake_Ladoga)
 - [Raja-Karjala, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Raja-Karjala)
+- [Salmi, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Salmi_(kunta)) (my maternal grandfather's place of birth)
 - [Laatokan Karjala, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Laatokan_Karjala)
 - [Itä-Karjala, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/It%C3%A4-Karjala)
 - [East Karelia, Wikipedia](https://en.wikipedia.org/wiki/East_Karelia)
