@@ -2,9 +2,11 @@
 
 ## My Education
 
-- **Master's Student in Applied Mathematics, University of Helsinki (2020-present)**
+- **Ylioppilastutkinto (Matriculation Examination), Imatran Yhteislukio (2002-2005)**
 
 - **Bachelor of Science in Computer Science, University of Helsinki (2017-2020)**
+
+- **Master's Student in Applied Mathematics, University of Helsinki (2020-present)**
 
 ## Some of My Programming Projects
 
