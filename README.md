@@ -1,4 +1,4 @@
-# Juuso Luhtala :four_leaf_clover: :evergreen_tree: :orthodox_cross: :latin_cross: :shield: :dove: :fire:
+# Juuso Luhtala (born Juuso Silvennoinen) :four_leaf_clover: :evergreen_tree: :orthodox_cross: :latin_cross: :shield: :dove: :fire:
 
 ## Some of My Programming Projects
 
