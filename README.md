@@ -1,5 +1,13 @@
 # Juuso Luhtala (born Juuso Silvennoinen) :four_leaf_clover: :evergreen_tree: :orthodox_cross: :latin_cross: :shield: :dove: :fire:
 
+## My Education
+
+- **Ylioppilastutkinto (Matriculation Examination), Imatran Yhteislukio (2002-2005)**
+
+- **Bachelor of Science in Computer Science, University of Helsinki (2017-2020)**
+
+- **Master's Student in Applied Mathematics, University of Helsinki (2020-present)**
+
 ## Some of My Programming Projects
 
 - [Classical Ciphers (Java)](https://github.com/Jsos17/Classic-crypto)
@@ -10,14 +18,6 @@
 - [A Calculator Application (Java)](https://github.com/Jsos17/CalculatorApp)
 - [Bet1X2 Database Application (Python)](https://github.com/Jsos17/Bet1X2)
 - [Todo Application (Python)](https://github.com/Jsos17/Python_Todo_App)
-
-## My Education
-
-- **Ylioppilastutkinto (Matriculation Examination), Imatran Yhteislukio (2002-2005)**
-
-- **Bachelor of Science in Computer Science, University of Helsinki (2017-2020)**
-
-- **Master's Student in Applied Mathematics, University of Helsinki (2020-present)**
 
 ## My Family Name
 
