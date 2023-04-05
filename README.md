@@ -1,6 +1,4 @@
-# Juuso Luhtala (born Juuso Silvennoinen) :four_leaf_clover: :evergreen_tree: :orthodox_cross: :latin_cross: :shield: :dove: :fire:
-
-## Education
+# My Education
 
 - **Ylioppilastutkinto (Matriculation Examination), Imatran Yhteislukio (2002-2005)**
 
@@ -8,7 +6,7 @@
 
 - **Master's Student in Applied Mathematics, University of Helsinki (2020-present)**
 
-## Some of My Programming Projects
+# Some of My Programming Projects
 
 - [Classical Ciphers (Java)](https://github.com/Jsos17/Classic-crypto)
 - [Visualising 120 Years of Olympic History (R)](https://github.com/Jsos17/Olympics_Evolution)
@@ -19,9 +17,9 @@
 - [Bet1X2 Database Application (Python)](https://github.com/Jsos17/Bet1X2)
 - [Todo Application (Python)](https://github.com/Jsos17/Python_Todo_App)
 
-## My Family Name (Luhtala/Silvennoinen)
+# My Family Name (Luhtala/Silvennoinen)
 
-As of September 2022, I have officially adopted the surname *Luhtala* belonging to the bloodline of my maternal grandfather Aleksanteri Luhtala. My birth surname is *Silvennoinen*. I have changed my surname to *Luhtala* because I feel a strong connection to my maternal grandfather. Finnish law allows one to take a surname that has been used in one's family within the last five generations. According to Finnish Orthodox Church records, my maternal grandfather was baptized as *Aleksandr* Luhtala and his first name was then changed into the more Finnish form of *Aleksanteri*. I feel that having *Luhtala* as my family name brings me closer to my Eastern Orthodox (Christian) Karelian cultural heritage.
+As of September 2022, I have officially adopted the surname *Luhtala* belonging to the bloodline of my maternal grandfather Aleksanteri Luhtala. My birth surname is *Silvennoinen* (I was born Juuso Silvennoinen). I have changed my surname to *Luhtala* because I feel a strong connection to my maternal grandfather. Finnish law allows one to take a surname that has been used in one's family within the last five generations. According to Finnish Orthodox Church records, my maternal grandfather was baptized as *Aleksandr* Luhtala and his first name was then changed into the more Finnish form of *Aleksanteri*. I feel that having *Luhtala* as my family name brings me closer to my Eastern Orthodox (Christian) Karelian cultural heritage.
 
 My maternal grandfather Aleksanteri Luhtala and his extended family lived in the village of Kaunoselkä in the former Finnish municipality of Salmi before the Second World War. Salmi was a part of Border Karelia (Raja-Karjala in Finnish). My maternal grandfather and his extended family were Eastern Orthodox Christians. According to information passed on to my mother, the family name *Luhtala* was based on the name of the (farm) estate (Finnish: tila) the extended family owned.
 
@@ -33,18 +31,18 @@ Old Karelian maps (National Land Survey of Finland, 2009) [show the name *Luhtan
 
 *Luhtala* and *Luhtanen* are some forms of my family name that can be found in old Finnish Orthodox Church records. The form *Luhtala* has then eventually become established as the official family name. It is possible that before the surname *Luhtala* was adopted, my Orthodox Karelian ancestors did not have a surname but they used patronyms instead (patronym: a part of a person's name is based on their father's first name).
 
-### References
+## References
 
 - [Patronen, Outi 2017: Rajakarjalaisen sukunimistön kehittyminen osana Suomen karjalankielisen ortodoksivähemmistön suomalaistumista 1818-1925. University of Helsinki.](https://helda.helsinki.fi/handle/10138/224298)
 - [National Land Survey of Finland (Maanmittauslaitos) 2009: Karjalan kartat.](https://www.karjalankartat.fi/)
 
-### Additional Reading
+## Additional Reading
 
 - [Salmi-Säätiö: Kaunoselkä (retrieved 3.9.2022)](https://salmi-saatio.fi/salmin-pitaja/kylat/kaunoselka/)
 - Rajoil da randamil: Salmi ja salmilaiset 1617-1948. Jukka Kokkonen (toim.). Salmi-Säätiö, 2015.
 - Sama mua, uvvet rannat: salmilaiset 1948-2018. Jukka Kokkonen (toim.). Salmi-Säätiö, 2018.
 
-## Karelian Heritage
+# Karelian Heritage
 
 ![The Flag of East Karelia](https://github.com/Jsos17/Jsos17/blob/main/640px-Itakarjalaisten_lippu.svg.png)
 
@@ -54,7 +52,7 @@ The flag of East Karelia can also be considered a symbol of Eastern Orthodox (Ch
 
 For me the flag of East Karelia symbolizes my Orthodox Karelian cultural heritage. Additionally, it also symbolizes the intergenerational consequences of the cultural and socioeconomic loss that my maternal grandfather and his extended family suffered after they lost their homes and farms and became refugees within Finnish borders (Finnish: Karjalan siirtoväki/evakot). Unfortunately, the Orthodox Border Karelians were often discriminated within Finland based on their traditional Karelian culture, their Eastern Orthodox Christian religion and their use of the Karelian language. The Orthodox Christian faith was viewed as too reminiscent of Russia, and thus somehow an "Un-Finnish" phenomenon since the absolute majority of Finnish people were Lutherans. Likewise, Karelian language was incorrectly recognized only as a dialect of Finnish and therefore the use of Karelian language was discouraged. People speaking Karelian language learned to hide its use and used Finnish instead, at least in public. Eventually, members of the future generations, like me, never learned the language.
 
-### The Flag of East Karelia Image Information
+## The Flag of East Karelia Image Information
 
 The image displaying the flag of East Karelia is from the Wikimedia Commons page of the East Karelia flag. Image author information can be found on [Wikimedia Commons page of the East Karelia flag](https://commons.wikimedia.org/wiki/File:It%C3%A4karjalaisten_lippu.svg#Licensing).
 
