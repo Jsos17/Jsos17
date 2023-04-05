@@ -19,7 +19,7 @@
 - [Bet1X2 Database Application (Python)](https://github.com/Jsos17/Bet1X2)
 - [Todo Application (Python)](https://github.com/Jsos17/Python_Todo_App)
 
-## Family Name
+## My Family Name (Luhtala/Silvennoinen)
 
 As of September 2022, I have officially adopted the surname *Luhtala* belonging to the bloodline of my maternal grandfather Aleksanteri Luhtala. My birth surname is *Silvennoinen*. I have changed my surname to *Luhtala* because I feel a strong connection to my maternal grandfather. Finnish law allows one to take a surname that has been used in one's family within the last five generations. According to Finnish Orthodox Church records, my maternal grandfather was baptized as *Aleksandr* Luhtala and his first name was then changed into the more Finnish form of *Aleksanteri*. I feel that having *Luhtala* as my family name brings me closer to my Eastern Orthodox (Christian) Karelian cultural heritage.
 
