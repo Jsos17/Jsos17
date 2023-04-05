@@ -44,11 +44,11 @@ Old Karelian maps (National Land Survey of Finland, 2009) [show the name *Luhtan
 - Rajoil da randamil: Salmi ja salmilaiset 1617-1948. Jukka Kokkonen (toim.). Salmi-Säätiö, 2015.
 - Sama mua, uvvet rannat: salmilaiset 1948-2018. Jukka Kokkonen (toim.). Salmi-Säätiö, 2018.
 
-## The Meaning of My Avatar/Profile Picture
+## My Karelian Heritage
 
 ![The Flag of East Karelia](https://github.com/Jsos17/Jsos17/blob/main/640px-Itakarjalaisten_lippu.svg.png)
 
-My avatar partially shows (or at least should show if everything works correctly) the flag of East Karelia which should be fully displayed above. The flag of East Karelia is used as the ethnic flag of Karelians. The flag was designed by famous Finnish artist Akseli Gallen-Kallela and it was proposed to be used as an independentist flag in the region of East Karelia (Finnish: Itä-Karjala).
+The flag of East Karelia should be displayed above. The flag of East Karelia is used as the ethnic flag of Karelians. The flag was designed by famous Finnish artist Akseli Gallen-Kallela and it was proposed to be used as an independentist flag in the region of East Karelia (Finnish: Itä-Karjala).
 
 The flag of East Karelia can also be considered a symbol of Eastern Orthodox (Christian) Karelian culture historically prevalent in the regions of East Karelia and Border Karelia (Finnish: Raja-Karjala). My maternal grandfather and his family were Eastern Orthodox Karelians who lived in Finnish Border Karelia before the area was lost to the Soviet Union for the first time after the Winter War and for the second time after the Continuation War. My maternal grandfather took part in both wars as a Finnish soldier. In addition, my maternal grandfather's mother and her family originated from Aunus (Olonets) Karelia (Finnish: Aunuksen Karjala), which is a part of East Karelia.
 
