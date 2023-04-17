@@ -2,20 +2,10 @@
 
 - **Ylioppilastutkinto (Matriculation Examination), Imatran Yhteislukio (2002-2005)**
 
-- **Bachelor of Science in Computer Science, University of Helsinki (2017-2020)**
+- **Bachelor of Science, University of Helsinki (2017-2020)**
 
-- **Master's Student in Applied Mathematics, University of Helsinki (2020-present)**
+- **Master's Student, University of Helsinki (2020-present)**
 
-# Some of My Programming Projects
-
-- [Classical Ciphers (Java)](https://github.com/Jsos17/Classic-crypto)
-- [Visualising 120 Years of Olympic History (R)](https://github.com/Jsos17/Olympics_Evolution)
-- [A Machine Learning Term Project (R)](https://github.com/Jsos17/Machine_Learning_Term_Project)
-- [Some Monte Carlo Experiments (Python and Jupyter Notebook)](https://github.com/Jsos17/Monte_Carlo)
-- [A Vector Autoregressive Model (R)](https://github.com/Jsos17/A_Vector_Autoregressive_Model)
-- [A Calculator Application (Java)](https://github.com/Jsos17/CalculatorApp)
-- [Bet1X2 Database Application (Python)](https://github.com/Jsos17/Bet1X2)
-- [Todo Application (Python)](https://github.com/Jsos17/Python_Todo_App)
 
 # My Family Name (Luhtala/Silvennoinen)
 
@@ -41,6 +31,7 @@ Old Karelian maps (National Land Survey of Finland, 2009) [show the name *Luhtan
 - [Salmi-Säätiö: Kaunoselkä (retrieved 3.9.2022)](https://salmi-saatio.fi/salmin-pitaja/kylat/kaunoselka/)
 - Rajoil da randamil: Salmi ja salmilaiset 1617-1948. Jukka Kokkonen (toim.). Salmi-Säätiö, 2015.
 - Sama mua, uvvet rannat: salmilaiset 1948-2018. Jukka Kokkonen (toim.). Salmi-Säätiö, 2018.
+
 
 # Karelian Heritage
 
