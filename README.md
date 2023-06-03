@@ -43,7 +43,7 @@ Old Karelian maps (National Land Survey of Finland, 2009) [show the name *Luhtan
 - Sama mua, uvvet rannat: salmilaiset 1948-2018. Jukka Kokkonen (toim.). Salmi-Säätiö, 2018.
 
 
-# Karelian Heritage
+# My Border Karelian Heritage
 
 ![The Flag of East Karelia](https://github.com/Jsos17/Jsos17/blob/main/640px-Itakarjalaisten_lippu.svg.png)
 
