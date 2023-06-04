@@ -6,7 +6,7 @@
 
 - **Master's Student (Applied Mathematics), University of Helsinki (2020-present)**
 
-# My Master's Thesis
+# My Master's Thesis in Applied Mathematics
 
 - [On Heavy-Tailed Probability Distributions and Portfolio Diversification](https://helda.helsinki.fi/handle/10138/357424) at HELDA - Digital Repository of the University of Helsinki
 
