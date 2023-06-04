@@ -6,6 +6,12 @@
 
 - **Master's Student (Applied Mathematics), University of Helsinki (2020-present)**
 
+# My Master's Thesis
+
+- [On Heavy-Tailed Probability Distributions and Portfolio Diversification](https://helda.helsinki.fi/handle/10138/357424) at HELDA - Digital Repository of the University of Helsinki
+
+- [Permanent link to my Master's thesis](http://urn.fi/URN:NBN:fi:hulib-202304261862)
+
 # Some of My Programming Projects
 
 - [Classical Ciphers (Java)](https://github.com/Jsos17/Classic-crypto)
