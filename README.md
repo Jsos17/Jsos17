@@ -10,7 +10,7 @@
 
 - [On Heavy-Tailed Probability Distributions and Portfolio Diversification](https://helda.helsinki.fi/handle/10138/357424) at HELDA - Digital Repository of the University of Helsinki
 
-- [Permanent link to my Master's thesis](http://urn.fi/URN:NBN:fi:hulib-202304261862)
+- [Permanent link to my Master's thesis](http://urn.fi/URN:NBN:fi:hulib-202304261862) at HELDA - Digital Repository of the University of Helsinki
 
 # Some of My Programming Projects
 
