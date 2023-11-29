@@ -10,7 +10,7 @@
 
 - **Master's Student (Applied Mathematics), University of Helsinki (2020-present)**
 
-  - Specialization: Insurance and **Financial Mathematics**
+  - Specialization: Insurance and Financial Mathematics
 
 # My Master's Thesis (in Financial Mathematics)
 
