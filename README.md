@@ -1,14 +1,14 @@
 # My Education
 
-- **Ylioppilastutkinto (Matriculation Examination), Imatran Yhteislukio (2002-2005)**
+- Ylioppilastutkinto (Matriculation Examination), Imatran Yhteislukio (2002-2005)
 
 - Mathematics and statistics studies, University of Helsinki (2007-2009)
 
-- **Economics studies, Helsinki School of Economics (now part of Aalto University) (Autumn 2009)**
+- Economics studies, Helsinki School of Economics (now part of Aalto University) (Autumn 2009)
 
-- **Bachelor of Science (Computer Science), University of Helsinki (2017-2020)**
+- Bachelor of Science (Computer Science), University of Helsinki (2017-2020)
 
-- **Master's Student (Applied Mathematics), University of Helsinki (2020-present)**
+- Master's Student (Applied Mathematics), University of Helsinki (2020-present)
 
   - Specialization: Insurance and Financial Mathematics
 
