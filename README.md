@@ -18,16 +18,16 @@
 
 - [Permanent link to my Master's thesis](http://urn.fi/URN:NBN:fi:hulib-202304261862) at HELDA - Digital Repository of the University of Helsinki
 
-# Some of My Programming Projects
+# Some of My Programming Projects from 2018 to 2021
 
-- [Classical Ciphers (Java)](https://github.com/Jsos17/Classic-crypto)
-- [Visualising 120 Years of Olympic History (R)](https://github.com/Jsos17/Olympics_Evolution)
-- [A Machine Learning Term Project (R)](https://github.com/Jsos17/Machine_Learning_Term_Project)
-- [Some Monte Carlo Experiments (Python and Jupyter Notebook)](https://github.com/Jsos17/Monte_Carlo)
-- [A Vector Autoregressive Model (R)](https://github.com/Jsos17/A_Vector_Autoregressive_Model)
-- [A Calculator Application (Java)](https://github.com/Jsos17/CalculatorApp)
-- [Bet1X2 Database Application (Python)](https://github.com/Jsos17/Bet1X2)
-- [Todo Application (Python)](https://github.com/Jsos17/Python_Todo_App)
+- [Classical Ciphers (Summer 2018, Java)](https://github.com/Jsos17/Classic-crypto)
+- [Visualising 120 Years of Olympic History (Spring 2021, R)](https://github.com/Jsos17/Olympics_Evolution)
+- [A Machine Learning Term Project (Spring 2021, R)](https://github.com/Jsos17/Machine_Learning_Term_Project)
+- [Some Monte Carlo Experiments (Autumn 2019, Python and Jupyter Notebook)](https://github.com/Jsos17/Monte_Carlo)
+- [A Vector Autoregressive Model (Spring 2020, R)](https://github.com/Jsos17/A_Vector_Autoregressive_Model)
+- [A Calculator Application (Spring 2018, Java)](https://github.com/Jsos17/CalculatorApp)
+- [Bet1X2 Database Application (Summer 2018, Python)](https://github.com/Jsos17/Bet1X2)
+- [Todo Application (Summer 2018, Python)](https://github.com/Jsos17/Python_Todo_App)
 
 # My Family Name (Luhtala)
 
