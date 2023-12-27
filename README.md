@@ -12,7 +12,7 @@
 
   - Specialization: Insurance and Financial Mathematics
 
-# My Master's Thesis (in Financial Mathematics)
+# Master's Thesis (in Financial Mathematics)
 
 - [On Heavy-Tailed Probability Distributions and Portfolio Diversification](https://helda.helsinki.fi/handle/10138/357424) at HELDA - Digital Repository of the University of Helsinki
 
