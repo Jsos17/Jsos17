@@ -29,7 +29,7 @@
 - [Bet1X2 Database Application (Summer 2018, Python)](https://github.com/Jsos17/Bet1X2)
 - [Todo Application (Summer 2018, Python)](https://github.com/Jsos17/Python_Todo_App)
 
-# My Family Name (Luhtala)
+# Family Name (Luhtala)
 
 As of September 2022, I have officially adopted the surname *Luhtala* belonging to my maternal grandfather *Aleksanteri Luhtala*. My birth surname is *Silvennoinen* (I was born *Juuso Silvennoinen*). I have changed my name to *Juuso Luhtala* because I feel a strong connection to my maternal grandfather. Finnish law allows one to take a surname that has been used in one's family within the last five generations. According to Finnish Orthodox Church records, my maternal grandfather was baptized as *Aleksandr Luhtala* and his first name was then changed into the more Finnish form of *Aleksanteri*. I feel that having *Luhtala* as my family name brings me closer to my Eastern Orthodox (Christian) Karelian cultural heritage.
 
@@ -55,7 +55,7 @@ Old Karelian maps (National Land Survey of Finland, 2009) [show the name *Luhtan
 - Sama mua, uvvet rannat: salmilaiset 1948-2018. Jukka Kokkonen (toim.). Salmi-Säätiö, 2018.
 
 
-# My Border Karelian Heritage
+# Border Karelian Heritage
 
 ![The Flag of East Karelia](https://github.com/Jsos17/Jsos17/blob/main/640px-Itakarjalaisten_lippu.svg.png)
 
