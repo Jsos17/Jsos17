@@ -89,6 +89,8 @@ The image displaying the flag of East Karelia is from the Wikimedia Commons page
 - [Karjalainen kulttuuri, Karjalan Sivistysseura (in Finnish)](https://www.karjalansivistysseura.fi/kulttuuri/)
 - [Karjalaiset (kansa), Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Karjalaiset_(kansa))
 - [Suomen karjalankieliset, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Suomen_karjalankieliset)
+- [Laukkuryssä (Itäkarjalainen laukkukauppias), Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Laukkuryss%C3%A4)
+- [Laukkuryssä (East-Karelian travelling salesman), Wikipedia](https://en.wikipedia.org/wiki/Laukkuryss%C3%A4)
 
 ### Many Karelias, Finnish Karelia and Old Finland
 
