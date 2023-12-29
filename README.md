@@ -135,6 +135,12 @@ The image displaying the flag of East Karelia is from the Wikimedia Commons page
 - [Ethnic Nordic Cross Flags, Wikipedia](https://en.wikipedia.org/wiki/Nordic_cross_flag#Ethnic_flags)
 - [Itä-Karjalan lippu, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/It%C3%A4-Karjalan_lippu)
 
+# Tietäjälaitos
+
+- [Tietäjä, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Tiet%C3%A4j%C3%A4)
+- [Tietäjä, Encyclopedia Britannica](https://www.britannica.com/topic/tietaja)
+- [Tietäjä ("knower"), Wikipedia](https://en.wikipedia.org/wiki/Tiet%C3%A4j%C3%A4)
+
 
 <!---
 Jsos17/Jsos17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
