@@ -18,7 +18,7 @@
 
 - [Permanent link to my Master's thesis](http://urn.fi/URN:NBN:fi:hulib-202304261862) at HELDA - Digital Repository of the University of Helsinki
 
-# Programming Projects from 2018 to 2021
+# University Programming Projects from 2018 to 2021
 
 - [Classical Ciphers (Summer 2018, Java)](https://github.com/Jsos17/Classic-crypto)
 - [Visualising 120 Years of Olympic History (Spring 2021, R)](https://github.com/Jsos17/Olympics_Evolution)
