@@ -1,4 +1,4 @@
-## Education
+# Education
 
 - Master's Student (Applied Mathematics), University of Helsinki (2020-present)
   - Specialization: Insurance and Financial Mathematics
