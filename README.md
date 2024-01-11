@@ -2,8 +2,8 @@
 
 - **Master's Student (Applied Mathematics)**, University of Helsinki (2020-present)
   - Specialization: Insurance and Financial Mathematics
-  - Master's Thesis (in Financial Mathematics):
-    - [On Heavy-Tailed Probability Distributions and Portfolio Diversification](https://helda.helsinki.fi/handle/10138/357424) at HELDA - Digital Repository of the University of Helsinki
+  - Master's Thesis (in Financial Mathematics) at HELDA - Digital Repository of the University of Helsinki:
+    - [On Heavy-Tailed Probability Distributions and Portfolio Diversification](https://helda.helsinki.fi/handle/10138/357424) 
     - [Permanent link](http://urn.fi/URN:NBN:fi:hulib-202304261862) at HELDA
 - **Bachelor of Science (Computer Science)**, University of Helsinki (2017-2020)
 - Economics studies, Helsinki School of Economics (now part of Aalto University) (Autumn 2009)
