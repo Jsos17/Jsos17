@@ -14,10 +14,6 @@
 
 - Ylioppilastutkinto (Matriculation Examination), Imatran Yhteislukio (2002-2005)
 
-## My Ethnic/Cultural Background
-
-- [Information on my ethnic/cultural background](https://github.com/Jsos17/Luhtala_background)
-
 <!---
 Jsos17/Jsos17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
