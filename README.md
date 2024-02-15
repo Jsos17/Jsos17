@@ -1,4 +1,4 @@
-### Education
+### My Education
 
 - **Master's Student (Applied Mathematics), University of Helsinki (2020-present)**
 - **Bachelor of Science (Computer Science), University of Helsinki (2017-2020)**
