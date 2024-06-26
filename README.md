@@ -1,7 +1,7 @@
 ### My Education
 
 - Master of Science (Applied Mathematics), University of Helsinki (2020-2024)
-  - [Master's Thesis](https://helda.helsinki.fi/handle/10138/357424) at HELDA - University of Helsinki Open Repository
+  - Master's Thesis: [On Heavy-Tailed Probability Distributions and Portfolio Diversification](https://helda.helsinki.fi/handle/10138/357424)
 - Bachelor of Science (Computer Science), University of Helsinki (2017-2020)
 
 <!---
