@@ -1,4 +1,4 @@
-### My Education
+### Education
 
 - Master of Science, University of Helsinki (2020-2024)
   - Study track: Applied mathematics
