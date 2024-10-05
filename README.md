@@ -1,5 +1,6 @@
 ### Education
 
+- Doctoral Researcher, Aalto University (2024-present)
 - Master of Science, University of Helsinki (2020-2024)
   - Total of 135 credits (cr): Probability theory (10 cr), applied mathematics (70 cr), statistics (35 cr), machine learning (15 cr), and data visualization (5 cr).
   - Master's thesis: [On Heavy-Tailed Probability Distributions and Portfolio Diversification](https://helda.helsinki.fi/handle/10138/357424)
