@@ -1,6 +1,7 @@
 ### Education
 
 - **Doctoral Researcher, Aalto University (2024-present)**
+  - Broad topic: Machine Learning in Anomaly Detection 
 - **Master of Science, University of Helsinki (2020-2024)**
   - Total of 135 credits (cr): Applied mathematics (80 cr), statistics (35 cr), machine learning (15 cr), and data visualization (5 cr).
   - Master's thesis: [On Heavy-Tailed Probability Distributions and Portfolio Diversification](https://helda.helsinki.fi/handle/10138/357424)
