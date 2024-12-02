@@ -13,6 +13,19 @@
 - Mathematics and statistics studies, University of Helsinki (2007-2009)
 - Matriculation Examination, Imatran Yhteislukio (2002-2005)
 
+### Work Experience
+
+- Doctoral Researcher, Aalto University (2024-present)
+- Logistics Worker, Kesko Corporation (2023-2024)
+- Research Assistant, University of Helsinki (2020-2022)
+- Researcher, HUS (Autumn 2020)
+- Sales consultant, Vitamail Oy (Autumn 2016)
+- Warehouse Worker, Barona Logistiikka Oy (2014-2016)
+- Food Production Worker, HKScan Oyj (2008-2014)
+- Advertisement deliverer, LB Distribution Finland Oy (Imatra) (2006-2007)
+- Military Service, Finnish Defence Forces (2005-2006)
+
+
 <!---
 Jsos17/Jsos17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
