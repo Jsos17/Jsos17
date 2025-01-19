@@ -15,12 +15,12 @@
 ### Work Experience
 
 - Doctoral Researcher, Aalto University (2024-present)
-- Logistics Worker, Kesko Corporation (2023-2024)
+- Logistics Worker (part-time), Kesko Corporation (2023-2024)
 - Research Assistant, University of Helsinki (2020-2022)
-- Researcher, HUS (Autumn 2020)
+- Researcher (part-time), HUS (Autumn 2020)
 - Sales Consultant, Vitamail Oy (Autumn 2016)
 - Warehouse Worker, Barona Logistiikka Oy (2014-2016)
-- Food Production Worker, HKScan Oyj (2008-2014)
+- Food Production Worker (part-time), HKScan Oyj (2008-2014)
 - Advertisement Delivery, LB Distribution Finland Oy (Imatra) (2006-2007)
 - Military Service, Finnish Defence Forces (2005-2006)
 
