@@ -16,7 +16,7 @@
 
 - Doctoral Researcher, Aalto University (2024-present)
 - Logistics Worker (part-time), Kesko Corporation (2023-2024)
-- Research Assistant, University of Helsinki (2020-2022)
+- Research Assistant (part-time), University of Helsinki (2020-2022)
 - Researcher (part-time), HUS (Autumn 2020)
 - Sales Consultant, Vitamail Oy (Autumn 2016)
 - Warehouse Worker, Barona Logistiikka Oy (2014-2016)
