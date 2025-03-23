@@ -1,7 +1,6 @@
 ### Education
 
 - Doctoral Researcher, Aalto University (2024-present)
-  - Broad topic: *On Using Machine Learning in Network Traffic Anomaly and Intrusion Detection*
   - Completed courses, total of 5 credits (cr): Complex Networks (5 cr)
 - Master of Science, University of Helsinki (2020-2024)
   - Total of 135 credits (cr): Insurance and financial mathematics (70 cr), probability theory (10 cr), statistics (35 cr), machine learning (15 cr) and data visualization (5 cr).
