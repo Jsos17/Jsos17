@@ -1,6 +1,5 @@
 ### Education
 
-- Doctoral Student, Aalto University (2024-present)
 - Master of Science, University of Helsinki (2020-2024)
   - Master's thesis: [*On Heavy-Tailed Probability Distributions and Portfolio Diversification*](https://helda.helsinki.fi/handle/10138/357424)
 - Bachelor of Science, University of Helsinki (2017-2020)
