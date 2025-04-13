@@ -1,7 +1,6 @@
 ### Education
 
 - Master of Science, University of Helsinki (2020-2024)
-  - Master's thesis: [*On Heavy-Tailed Probability Distributions and Portfolio Diversification*](https://helda.helsinki.fi/handle/10138/357424)
 - Bachelor of Science, University of Helsinki (2017-2020)
 - Business studies, Helsinki School of Economics (Autumn 2009)
 - Mathematics and statistics studies, University of Helsinki (2007-2009)
